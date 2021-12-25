@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.canvas.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="1000.0" prefWidth="1000.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Canvas height="500" layoutX="500" layoutY="500" width="500" />
+      <Button mnemonicParsing="false" prefHeight="41.0" prefWidth="97.0" text="Go" />
+      <Button layoutX="120.0" mnemonicParsing="false" prefHeight="41.0" prefWidth="97.0" text="Turn" />
+   </children>
+</AnchorPane>
